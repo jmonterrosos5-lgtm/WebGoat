@@ -60,7 +60,7 @@
     <url>https://github.com/WebGoat/WebGoat/issues</url>
   </issueManagement>
 
-   <properties>
+  <properties>
 
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>3.0.1</asciidoctorj.version>
